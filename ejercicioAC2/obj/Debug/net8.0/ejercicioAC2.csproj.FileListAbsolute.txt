@@ -1,0 +1,14 @@
+C:\Users\usuario\Desktop\DAW\Asignatures\Programación Marc\primera avaluacio\c#\ejercicioAC2\bin\Debug\net8.0\ejercicioAC2.exe
+C:\Users\usuario\Desktop\DAW\Asignatures\Programación Marc\primera avaluacio\c#\ejercicioAC2\bin\Debug\net8.0\ejercicioAC2.deps.json
+C:\Users\usuario\Desktop\DAW\Asignatures\Programación Marc\primera avaluacio\c#\ejercicioAC2\bin\Debug\net8.0\ejercicioAC2.runtimeconfig.json
+C:\Users\usuario\Desktop\DAW\Asignatures\Programación Marc\primera avaluacio\c#\ejercicioAC2\bin\Debug\net8.0\ejercicioAC2.dll
+C:\Users\usuario\Desktop\DAW\Asignatures\Programación Marc\primera avaluacio\c#\ejercicioAC2\bin\Debug\net8.0\ejercicioAC2.pdb
+C:\Users\usuario\Desktop\DAW\Asignatures\Programación Marc\primera avaluacio\c#\ejercicioAC2\obj\Debug\net8.0\ejercicioAC2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\DAW\Asignatures\Programación Marc\primera avaluacio\c#\ejercicioAC2\obj\Debug\net8.0\ejercicioAC2.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\DAW\Asignatures\Programación Marc\primera avaluacio\c#\ejercicioAC2\obj\Debug\net8.0\ejercicioAC2.AssemblyInfo.cs
+C:\Users\usuario\Desktop\DAW\Asignatures\Programación Marc\primera avaluacio\c#\ejercicioAC2\obj\Debug\net8.0\ejercicioAC2.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\DAW\Asignatures\Programación Marc\primera avaluacio\c#\ejercicioAC2\obj\Debug\net8.0\ejercicioAC2.dll
+C:\Users\usuario\Desktop\DAW\Asignatures\Programación Marc\primera avaluacio\c#\ejercicioAC2\obj\Debug\net8.0\refint\ejercicioAC2.dll
+C:\Users\usuario\Desktop\DAW\Asignatures\Programación Marc\primera avaluacio\c#\ejercicioAC2\obj\Debug\net8.0\ejercicioAC2.pdb
+C:\Users\usuario\Desktop\DAW\Asignatures\Programación Marc\primera avaluacio\c#\ejercicioAC2\obj\Debug\net8.0\ejercicioAC2.genruntimeconfig.cache
+C:\Users\usuario\Desktop\DAW\Asignatures\Programación Marc\primera avaluacio\c#\ejercicioAC2\obj\Debug\net8.0\ref\ejercicioAC2.dll
