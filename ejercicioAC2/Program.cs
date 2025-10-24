@@ -25,22 +25,22 @@
 
         // EJERCICIO 2
 
-        // int numero1;
+        // int numerUno;
         // int numero2;
 
-        // System.Console.WriteLine("Dime numero1");
-        // numero1 = Convert.ToInt32(Console.ReadLine());
+        // System.Console.WriteLine("Dime numerUno");
+        // numerUno = Convert.ToInt32(Console.ReadLine());
 
         // System.Console.WriteLine("Dime numero2");
         // numero2 = Convert.ToInt32(Console.ReadLine());
 
-        // if (numero1 > numero2)
+        // if (numerUno > numero2)
         // {
-        //     System.Console.WriteLine($"Numero {numero1} es mayor que numero {numero2} ");
+        //     System.Console.WriteLine($"Numero {numerUno} es mayor que numero {numero2} ");
         // }
-        // else if (numero1 < numero2)
+        // else if (numerUno < numero2)
         // {
-        //     System.Console.WriteLine($"Numero {numero2} es mayor que numero {numero1} ");
+        //     System.Console.WriteLine($"Numero {numero2} es mayor que numero {numerUno} ");
         // }
         // else
         // {
@@ -105,10 +105,10 @@
         // System.Console.WriteLine("Dime un año");
         // year = Convert.ToInt32(Console.ReadLine());
 
-        // if (year)
-        // {
-            
-        // }
+        // int resultado = (year)
+
+
+         
        
     }
 }

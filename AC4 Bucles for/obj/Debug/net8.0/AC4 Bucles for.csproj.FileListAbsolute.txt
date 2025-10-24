@@ -1,0 +1,15 @@
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\AC4 Bucles for\bin\Debug\net8.0\AC4 Bucles for.exe
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\AC4 Bucles for\bin\Debug\net8.0\AC4 Bucles for.deps.json
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\AC4 Bucles for\bin\Debug\net8.0\AC4 Bucles for.runtimeconfig.json
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\AC4 Bucles for\bin\Debug\net8.0\AC4 Bucles for.dll
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\AC4 Bucles for\bin\Debug\net8.0\AC4 Bucles for.pdb
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\AC4 Bucles for\obj\Debug\net8.0\AC4 Bucles for.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\AC4 Bucles for\obj\Debug\net8.0\AC4 Bucles for.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\AC4 Bucles for\obj\Debug\net8.0\AC4 Bucles for.AssemblyInfo.cs
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\AC4 Bucles for\obj\Debug\net8.0\AC4 Bucles for.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\AC4 Bucles for\obj\Debug\net8.0\AC4 Bucles for.sourcelink.json
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\AC4 Bucles for\obj\Debug\net8.0\AC4 Bucles for.dll
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\AC4 Bucles for\obj\Debug\net8.0\refint\AC4 Bucles for.dll
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\AC4 Bucles for\obj\Debug\net8.0\AC4 Bucles for.pdb
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\AC4 Bucles for\obj\Debug\net8.0\AC4 Bucles for.genruntimeconfig.cache
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\AC4 Bucles for\obj\Debug\net8.0\ref\AC4 Bucles for.dll

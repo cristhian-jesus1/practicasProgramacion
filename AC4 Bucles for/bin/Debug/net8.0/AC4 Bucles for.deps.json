@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "AC4 Bucles for/1.0.0": {
+        "runtime": {
+          "AC4 Bucles for.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AC4 Bucles for/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

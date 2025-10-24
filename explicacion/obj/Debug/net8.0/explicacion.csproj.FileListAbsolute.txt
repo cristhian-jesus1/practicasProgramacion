@@ -1,0 +1,15 @@
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\explicacion\bin\Debug\net8.0\explicacion.exe
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\explicacion\bin\Debug\net8.0\explicacion.deps.json
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\explicacion\bin\Debug\net8.0\explicacion.runtimeconfig.json
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\explicacion\bin\Debug\net8.0\explicacion.dll
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\explicacion\bin\Debug\net8.0\explicacion.pdb
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\explicacion\obj\Debug\net8.0\explicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\explicacion\obj\Debug\net8.0\explicacion.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\explicacion\obj\Debug\net8.0\explicacion.AssemblyInfo.cs
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\explicacion\obj\Debug\net8.0\explicacion.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\explicacion\obj\Debug\net8.0\explicacion.sourcelink.json
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\explicacion\obj\Debug\net8.0\explicacion.dll
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\explicacion\obj\Debug\net8.0\refint\explicacion.dll
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\explicacion\obj\Debug\net8.0\explicacion.pdb
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\explicacion\obj\Debug\net8.0\explicacion.genruntimeconfig.cache
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\explicacion\obj\Debug\net8.0\ref\explicacion.dll
