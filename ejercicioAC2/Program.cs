@@ -100,12 +100,12 @@
 
         // EJERCICIO 5
 
-        // int year;
+        int year;
 
-        // System.Console.WriteLine("Dime un año");
-        // year = Convert.ToInt32(Console.ReadLine());
+        System.Console.WriteLine("Dime un año");
+        year = Convert.ToInt32(Console.ReadLine());
 
-        // int resultado = (year)
+        int resultado = (year)
 
 
          
