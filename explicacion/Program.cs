@@ -135,7 +135,7 @@ internal class Program
 
         // foreach (var numero in numeros)
         // {
-        //     System.Console.WriteLine(numeros); // 1234
+        //     System.Console.WriteLine(numero); // 1234
         // }
 
 
@@ -156,7 +156,7 @@ internal class Program
 
         // for (int i = 0; i < 4; i++)
         // {
-        //     numeros2[i] = i + 1;
+        //     numeros2[i] = i+1;
         // }
 
         // foreach (var item in numeros2)
@@ -477,6 +477,159 @@ internal class Program
         // {
         //    System.Console.WriteLine($"Almacen {verAlmacen+1} tiene {almacen[verAlmacen,i]} ");
         // }
+
+        // Usa un array 3x3 para representar las habitaciones de un pequeño hotel. 
+        // Permite marcar cuáles están ocupadas y muestra cuántas quedan libres
+
+        // int[,] hotel = {
+        //                 { 0, 0, 0 },
+        //                 { 0, 0, 0 },
+        //                 { 0, 0, 0 },
+        //                 { 1, 0, 1 } };
+        // int habitacion = 0;
+        // int libre = 0;
+        // int ocupada = 0;
+
+
+
+        // for (int i = 0; i < 3; i++)
+        // {
+        //     for (int j = 0; j < 3; j++)
+        //     {
+        //         System.Console.WriteLine($"Que habitacion quieres?");
+        //         habitacion = int.Parse(Console.ReadLine());
+
+        //         if (hotel[i,j] == 1 && habitacion==1)
+        //         {
+        //             System.Console.WriteLine($"Ocupada");
+        //         }
+        //     }
+        // }
+
+        // for (int i = 0; i < hotel.GetLength(0); i++)
+        // {
+        //     for (int j = 0; j < hotel.GetLength(1); j++)
+        //     {
+        //         if (hotel[i, j] == 0)
+        //         {
+        //             libre++;
+        //         } else
+        //         {
+        //             ocupada++;
+        //         }
+        //     }
+        // }
+        // System.Console.WriteLine($"Habitacion libre son {libre} y ocupadas son {ocupada}");
+
+        // Representa con un array 5x5 la asistencia de 5 alumnos durante 5 días. Usa “A” para asistido y “F” para falta. 
+        // Luego muestra cuántas faltas tiene cada alumno.
+
+        // int[,] asistenciaAlumnos = {
+        //                             { 0, 1, 1, 1, 1 },          // ASISTENCIA 1 FALTA 0
+        //                             { 0, 1, 0, 1, 1 },
+        //                             { 0, 0, 1, 0, 1 },
+        //                             { 0, 1, 1, 0, 1 },
+        //                             { 1, 0, 0, 1, 1 } };
+        // // int asistencia = 0;
+        // int falta = 0;
+        // int alumno;
+        // int faltasTotales = 0;
+
+        // System.Console.WriteLine("Que alumno quieres ver (0 al 4)");
+        // alumno = int.Parse(Console.ReadLine());
+
+        // for (int i = 0; i <5; i++)
+        // {
+        //     if (asistenciaAlumnos[alumno,i] == 0)
+        //     {
+        //         falta++;
+        //     }
+        // }
+        // System.Console.WriteLine($"El alumno ha faltado {falta}");
+
+        // foreach (var faltas in asistenciaAlumnos)        // PARA TODOS LOS ALUMNOS
+        // {
+        //     if (faltas == 0)
+        //     {
+        //         faltasTotales++;
+        //     }
+        // }
+
+        // for (int i = 0; i < asistenciaAlumnos.GetLength(0); i++)    // PARA UN ALUMNO EN CONCRETO
+        // {
+        //     falta = 0;
+
+        //     for (int j = 0; j < asistenciaAlumnos.GetLength(1); j++)
+        //     {
+        //         if (asistenciaAlumnos[i, j] == 0)
+        //         {
+        //             falta++;
+        //         }
+        //     }
+        //     System.Console.WriteLine($"El alumno {i} tiene {falta} faltas");
+        // }
+
+        // Codifica un array de 5x3 donde las filas sean días (lunes a viernes) y las columnas sean horas (mañana, tarde, noche). 
+        // Pide al usuario que introduzca una actividad por celda y muestra toda la agenda
+
+        // MATRICES ESCALONADAS !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! MATRICES ESCALONADASMATRICMATRICES ESCALONADASMATRICES ESCALONADASMATRICES ESCALONADASES ESCALONADAS
+
+
+        // int[][] notasAlumnos = new int[3][];
+
+        // notasAlumnos[0] = new int[2];
+        // notasAlumnos[1] = new int[1];
+        // notasAlumnos[2] = new int[3];
+
+        // int nota;
+
+        // for (int i = 0; i < notasAlumnos.Length; i++)
+        // {
+        //     for (int j = 0; j < notasAlumnos[i].Length; j++)
+        //     {
+        //         System.Console.WriteLine($"Introduce nota alumno {i + 1}");
+        //         notasAlumnos[i][j]= int.Parse(Console.ReadLine());
+        //     }
+
+        // }
+        // System.Console.WriteLine("NOTA ALUMNOS");
+
+        // for (int i = 0; i < notasAlumnos.Length; i++)
+        // {
+        //     System.Console.WriteLine($"notas alumno {i+1} tiene : ");
+
+        //     for (int j = 0; j < notasAlumnos[i].Length; j++)
+        //     {
+        //         System.Console.Write($"{notasAlumnos[i][j]}");
+        //     }
+        //     System.Console.WriteLine();
+        // }
+
+        // EJERCICIO 1 POWER 
+
+        // string [][] horario =
+        // {
+        //     new string[]{"sistemas", "sistemas", "tutoria", "programacion", "programacion", "programacion" },
+        //     new string[]{ "sistemas", "entorns", "entorns","entorns"},
+        //     new string[]{ "tutoria", "sistemas", "sistemas", "sistemas"},
+        //     new string[]{ "programacion", "programacion", "marcas", "marcas", "marcas"},
+        //     new string[]{ "tutoria", "tutoria", "entorns", "entorns", "programacion" }
+        // };
+        // string [] diasSemana = {"lunes", "Martes", "miercoles", "jueves", "viernes" };
+
+        // for (int i = 0; i < horario.Length; i++)
+        // {
+        //     System.Console.WriteLine("horario del dia : " + diasSemana[i]);
+            
+        //     for (int j = 0; j < horario[i].Length; j++)
+        //     {
+        //         System.Console.WriteLine( horario[i][j]);
+        //     }
+        //     System.Console.WriteLine();
+        // }
+
+
+
     }
 }
 

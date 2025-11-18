@@ -1,0 +1,15 @@
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\Activitat AC6\bin\Debug\net8.0\Activitat AC6.exe
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\Activitat AC6\bin\Debug\net8.0\Activitat AC6.deps.json
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\Activitat AC6\bin\Debug\net8.0\Activitat AC6.runtimeconfig.json
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\Activitat AC6\bin\Debug\net8.0\Activitat AC6.dll
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\Activitat AC6\bin\Debug\net8.0\Activitat AC6.pdb
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\Activitat AC6\obj\Debug\net8.0\Activitat AC6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\Activitat AC6\obj\Debug\net8.0\Activitat AC6.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\Activitat AC6\obj\Debug\net8.0\Activitat AC6.AssemblyInfo.cs
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\Activitat AC6\obj\Debug\net8.0\Activitat AC6.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\Activitat AC6\obj\Debug\net8.0\Activitat AC6.sourcelink.json
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\Activitat AC6\obj\Debug\net8.0\Activitat AC6.dll
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\Activitat AC6\obj\Debug\net8.0\refint\Activitat AC6.dll
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\Activitat AC6\obj\Debug\net8.0\Activitat AC6.pdb
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\Activitat AC6\obj\Debug\net8.0\Activitat AC6.genruntimeconfig.cache
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\Activitat AC6\obj\Debug\net8.0\ref\Activitat AC6.dll
