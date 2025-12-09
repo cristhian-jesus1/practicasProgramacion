@@ -1,0 +1,15 @@
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\PROYECTO POKEMON\bin\Debug\net8.0\PROYECTO POKEMON.exe
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\PROYECTO POKEMON\bin\Debug\net8.0\PROYECTO POKEMON.deps.json
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\PROYECTO POKEMON\bin\Debug\net8.0\PROYECTO POKEMON.runtimeconfig.json
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\PROYECTO POKEMON\bin\Debug\net8.0\PROYECTO POKEMON.dll
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\PROYECTO POKEMON\bin\Debug\net8.0\PROYECTO POKEMON.pdb
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\PROYECTO POKEMON\obj\Debug\net8.0\PROYECTO POKEMON.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\PROYECTO POKEMON\obj\Debug\net8.0\PROYECTO POKEMON.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\PROYECTO POKEMON\obj\Debug\net8.0\PROYECTO POKEMON.AssemblyInfo.cs
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\PROYECTO POKEMON\obj\Debug\net8.0\PROYECTO POKEMON.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\PROYECTO POKEMON\obj\Debug\net8.0\PROYECTO POKEMON.sourcelink.json
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\PROYECTO POKEMON\obj\Debug\net8.0\PROYECTO POKEMON.dll
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\PROYECTO POKEMON\obj\Debug\net8.0\refint\PROYECTO POKEMON.dll
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\PROYECTO POKEMON\obj\Debug\net8.0\PROYECTO POKEMON.pdb
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\PROYECTO POKEMON\obj\Debug\net8.0\PROYECTO POKEMON.genruntimeconfig.cache
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\PROYECTO POKEMON\obj\Debug\net8.0\ref\PROYECTO POKEMON.dll
