@@ -1,0 +1,15 @@
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\segona avaluacio\naves espaciales (lista,stack,cola)\bin\Debug\net8.0\naves espaciales (lista,stack,cola).exe
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\segona avaluacio\naves espaciales (lista,stack,cola)\bin\Debug\net8.0\naves espaciales (lista,stack,cola).deps.json
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\segona avaluacio\naves espaciales (lista,stack,cola)\bin\Debug\net8.0\naves espaciales (lista,stack,cola).runtimeconfig.json
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\segona avaluacio\naves espaciales (lista,stack,cola)\bin\Debug\net8.0\naves espaciales (lista,stack,cola).dll
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\segona avaluacio\naves espaciales (lista,stack,cola)\bin\Debug\net8.0\naves espaciales (lista,stack,cola).pdb
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\segona avaluacio\naves espaciales (lista,stack,cola)\obj\Debug\net8.0\naves espaciales (lista,stack,cola).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\segona avaluacio\naves espaciales (lista,stack,cola)\obj\Debug\net8.0\naves espaciales (lista,stack,cola).AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\segona avaluacio\naves espaciales (lista,stack,cola)\obj\Debug\net8.0\naves espaciales (lista,stack,cola).AssemblyInfo.cs
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\segona avaluacio\naves espaciales (lista,stack,cola)\obj\Debug\net8.0\naves espaciales (lista,stack,cola).csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\segona avaluacio\naves espaciales (lista,stack,cola)\obj\Debug\net8.0\naves espaciales (lista,stack,cola).sourcelink.json
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\segona avaluacio\naves espaciales (lista,stack,cola)\obj\Debug\net8.0\naves espaciales (lista,stack,cola).dll
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\segona avaluacio\naves espaciales (lista,stack,cola)\obj\Debug\net8.0\refint\naves espaciales (lista,stack,cola).dll
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\segona avaluacio\naves espaciales (lista,stack,cola)\obj\Debug\net8.0\naves espaciales (lista,stack,cola).pdb
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\segona avaluacio\naves espaciales (lista,stack,cola)\obj\Debug\net8.0\naves espaciales (lista,stack,cola).genruntimeconfig.cache
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\segona avaluacio\naves espaciales (lista,stack,cola)\obj\Debug\net8.0\ref\naves espaciales (lista,stack,cola).dll
