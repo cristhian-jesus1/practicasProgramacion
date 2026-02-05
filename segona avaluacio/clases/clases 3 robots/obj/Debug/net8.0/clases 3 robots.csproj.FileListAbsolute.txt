@@ -1,0 +1,15 @@
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\segona avaluacio\clases\clases 3 robots\obj\Debug\net8.0\clases 3 robots.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\segona avaluacio\clases\clases 3 robots\obj\Debug\net8.0\clases 3 robots.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\segona avaluacio\clases\clases 3 robots\obj\Debug\net8.0\clases 3 robots.AssemblyInfo.cs
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\segona avaluacio\clases\clases 3 robots\obj\Debug\net8.0\clases 3 robots.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\segona avaluacio\clases\clases 3 robots\obj\Debug\net8.0\clases 3 robots.sourcelink.json
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\segona avaluacio\clases\clases 3 robots\bin\Debug\net8.0\clases 3 robots.exe
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\segona avaluacio\clases\clases 3 robots\bin\Debug\net8.0\clases 3 robots.deps.json
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\segona avaluacio\clases\clases 3 robots\bin\Debug\net8.0\clases 3 robots.runtimeconfig.json
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\segona avaluacio\clases\clases 3 robots\bin\Debug\net8.0\clases 3 robots.dll
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\segona avaluacio\clases\clases 3 robots\bin\Debug\net8.0\clases 3 robots.pdb
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\segona avaluacio\clases\clases 3 robots\obj\Debug\net8.0\clases 3 robots.dll
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\segona avaluacio\clases\clases 3 robots\obj\Debug\net8.0\refint\clases 3 robots.dll
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\segona avaluacio\clases\clases 3 robots\obj\Debug\net8.0\clases 3 robots.pdb
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\segona avaluacio\clases\clases 3 robots\obj\Debug\net8.0\clases 3 robots.genruntimeconfig.cache
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\segona avaluacio\clases\clases 3 robots\obj\Debug\net8.0\ref\clases 3 robots.dll
