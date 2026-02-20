@@ -23,9 +23,6 @@ internal class Program
             System.Console.WriteLine("Longitude : " + longitude);
             System.Console.WriteLine("Message : " + response.StatusCode);
 
-            Thread.Sleep(3000);
-
-        
             string url2 = $"http://api.geonames.org/countrySubdivisionJSON?lat={latitude}&lng={longitude}&username=marc";
 
             HttpClient client2 = new HttpClient();
@@ -37,7 +34,16 @@ internal class Program
 
             string pais = verPais.countryName;
 
-            System.Console.WriteLine($"El pais es : {pais}");
+            if (pais == null)
+            {
+                System.Console.WriteLine($"Esta en el agua");
+            }
+            else
+            {
+                System.Console.WriteLine($"El pais es : {pais}");
+            }
+
+            Thread.Sleep(3000);
 
         } while (repetir);
         
