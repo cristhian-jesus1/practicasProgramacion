@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "kECGSAnkLRc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\usuario\\Desktop\\DAW\\Asignatures\\practicasProgramacion\\segona avaluacio\\sqlLite\\sqlLite.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\usuario\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.119\\stub.system.data.sqlite.core.netstandard.1.0.119.nupkg.sha512",
+    "C:\\Users\\usuario\\.nuget\\packages\\system.data.sqlite.core\\1.0.119\\system.data.sqlite.core.1.0.119.nupkg.sha512"
+  ],
+  "logs": []
+}
