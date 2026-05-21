@@ -1,0 +1,15 @@
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\segona avaluacio\tarea lista stack cola\bin\Debug\net8.0\tarea lista stack cola.exe
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\segona avaluacio\tarea lista stack cola\bin\Debug\net8.0\tarea lista stack cola.deps.json
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\segona avaluacio\tarea lista stack cola\bin\Debug\net8.0\tarea lista stack cola.runtimeconfig.json
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\segona avaluacio\tarea lista stack cola\bin\Debug\net8.0\tarea lista stack cola.dll
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\segona avaluacio\tarea lista stack cola\bin\Debug\net8.0\tarea lista stack cola.pdb
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\segona avaluacio\tarea lista stack cola\obj\Debug\net8.0\tarea lista stack cola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\segona avaluacio\tarea lista stack cola\obj\Debug\net8.0\tarea lista stack cola.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\segona avaluacio\tarea lista stack cola\obj\Debug\net8.0\tarea lista stack cola.AssemblyInfo.cs
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\segona avaluacio\tarea lista stack cola\obj\Debug\net8.0\tarea lista stack cola.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\segona avaluacio\tarea lista stack cola\obj\Debug\net8.0\tarea lista stack cola.sourcelink.json
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\segona avaluacio\tarea lista stack cola\obj\Debug\net8.0\tarea lista stack cola.dll
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\segona avaluacio\tarea lista stack cola\obj\Debug\net8.0\refint\tarea lista stack cola.dll
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\segona avaluacio\tarea lista stack cola\obj\Debug\net8.0\tarea lista stack cola.pdb
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\segona avaluacio\tarea lista stack cola\obj\Debug\net8.0\tarea lista stack cola.genruntimeconfig.cache
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\segona avaluacio\tarea lista stack cola\obj\Debug\net8.0\ref\tarea lista stack cola.dll

@@ -1,0 +1,15 @@
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\segona avaluacio\ojetos\bin\Debug\net8.0\ojetos.exe
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\segona avaluacio\ojetos\bin\Debug\net8.0\ojetos.deps.json
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\segona avaluacio\ojetos\bin\Debug\net8.0\ojetos.runtimeconfig.json
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\segona avaluacio\ojetos\bin\Debug\net8.0\ojetos.dll
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\segona avaluacio\ojetos\bin\Debug\net8.0\ojetos.pdb
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\segona avaluacio\ojetos\obj\Debug\net8.0\ojetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\segona avaluacio\ojetos\obj\Debug\net8.0\ojetos.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\segona avaluacio\ojetos\obj\Debug\net8.0\ojetos.AssemblyInfo.cs
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\segona avaluacio\ojetos\obj\Debug\net8.0\ojetos.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\segona avaluacio\ojetos\obj\Debug\net8.0\ojetos.sourcelink.json
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\segona avaluacio\ojetos\obj\Debug\net8.0\ojetos.dll
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\segona avaluacio\ojetos\obj\Debug\net8.0\refint\ojetos.dll
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\segona avaluacio\ojetos\obj\Debug\net8.0\ojetos.pdb
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\segona avaluacio\ojetos\obj\Debug\net8.0\ojetos.genruntimeconfig.cache
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\segona avaluacio\ojetos\obj\Debug\net8.0\ref\ojetos.dll

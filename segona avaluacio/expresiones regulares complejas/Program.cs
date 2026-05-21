@@ -20,6 +20,7 @@ internal class Program
 
         string patternCorreo = @"[A-Za-z]+@[A-Za-z]+\.[A-Za-z]{2,3}";
         MatchCollection matchesCorreo = Regex.Matches(texto, patternCorreo);
+        
 
         string patternNumeroTelefono = @"\d{3}-\d{3}-\d{4}";
         MatchCollection matchesTelefono = Regex.Matches(texto, patternNumeroTelefono);

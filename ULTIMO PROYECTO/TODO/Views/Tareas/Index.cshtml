@@ -1,0 +1,38 @@
+@model List<TodoMVC.Models.Tarea>
+
+@{
+    ViewData["Title"] = "Mis Tareas";
+}
+
+<div class="container">
+    <div class="card-header">
+        <h1> Mis Tareas</h1>
+        <a href="/Tareas/Crear" class="btn btn-primary">+ Nueva tarea</a>
+    </div>
+
+    @if (Model.Count == 0)
+    {
+        <p class="empty">Añadir tareas!</p>
+    }
+    else
+    {
+        <ul class="task-list">
+            @foreach (var tarea in Model)
+            {
+                <li class="task-item @(tarea.Completada ? "done" : "")">
+                    <span class="task-title">
+                        @(tarea.Completada ? "SI" : "NO") @tarea.Titulo
+                    </span>
+                    <span class="task-actions">
+                        @if (!tarea.Completada)
+                        {
+                            <a href="/Tareas/Completar/@tarea.Id" class="btn btn-success">Completar</a>
+                        }
+                        <a href="/Tareas/Eliminar/@tarea.Id" class="btn btn-danger"
+                           onclick="return confirm('¿Eliminar esta tarea?')">Eliminar</a>
+                    </span>
+                </li>
+            }
+        </ul>
+    }
+</div>

@@ -1,0 +1,15 @@
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\segona avaluacio\try-catch-finally\practicas\bin\Debug\net8.0\practicas.exe
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\segona avaluacio\try-catch-finally\practicas\bin\Debug\net8.0\practicas.deps.json
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\segona avaluacio\try-catch-finally\practicas\bin\Debug\net8.0\practicas.runtimeconfig.json
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\segona avaluacio\try-catch-finally\practicas\bin\Debug\net8.0\practicas.dll
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\segona avaluacio\try-catch-finally\practicas\bin\Debug\net8.0\practicas.pdb
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\segona avaluacio\try-catch-finally\practicas\obj\Debug\net8.0\practicas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\segona avaluacio\try-catch-finally\practicas\obj\Debug\net8.0\practicas.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\segona avaluacio\try-catch-finally\practicas\obj\Debug\net8.0\practicas.AssemblyInfo.cs
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\segona avaluacio\try-catch-finally\practicas\obj\Debug\net8.0\practicas.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\segona avaluacio\try-catch-finally\practicas\obj\Debug\net8.0\practicas.sourcelink.json
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\segona avaluacio\try-catch-finally\practicas\obj\Debug\net8.0\practicas.dll
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\segona avaluacio\try-catch-finally\practicas\obj\Debug\net8.0\refint\practicas.dll
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\segona avaluacio\try-catch-finally\practicas\obj\Debug\net8.0\practicas.pdb
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\segona avaluacio\try-catch-finally\practicas\obj\Debug\net8.0\practicas.genruntimeconfig.cache
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\segona avaluacio\try-catch-finally\practicas\obj\Debug\net8.0\ref\practicas.dll

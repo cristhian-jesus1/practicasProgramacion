@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "pbB4ItSyz85Eb27/NsHneED2Qd5lghbSYWDMMezBn+A=",
+  "Source": "TodoMVC",
+  "BasePath": "_content/TodoMVC",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "TodoMVC\\wwwroot",
+      "Source": "TodoMVC",
+      "ContentRoot": "C:\\Users\\usuario\\Desktop\\DAW\\Asignatures\\practicasProgramacion\\ULTIMO PROYECTO\\TODO\\wwwroot\\",
+      "BasePath": "_content/TodoMVC",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\usuario\\Desktop\\DAW\\Asignatures\\practicasProgramacion\\ULTIMO PROYECTO\\TODO\\wwwroot\\css\\site.css",
+      "SourceId": "TodoMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\usuario\\Desktop\\DAW\\Asignatures\\practicasProgramacion\\ULTIMO PROYECTO\\TODO\\wwwroot\\",
+      "BasePath": "_content/TodoMVC",
+      "RelativePath": "css/site.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\site.css"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\segona avaluacio\gestiondeficheros\bin\Debug\net8.0\gestiondeficheros.exe
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\segona avaluacio\gestiondeficheros\bin\Debug\net8.0\gestiondeficheros.deps.json
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\segona avaluacio\gestiondeficheros\bin\Debug\net8.0\gestiondeficheros.runtimeconfig.json
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\segona avaluacio\gestiondeficheros\bin\Debug\net8.0\gestiondeficheros.dll
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\segona avaluacio\gestiondeficheros\bin\Debug\net8.0\gestiondeficheros.pdb
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\segona avaluacio\gestiondeficheros\obj\Debug\net8.0\gestiondeficheros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\segona avaluacio\gestiondeficheros\obj\Debug\net8.0\gestiondeficheros.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\segona avaluacio\gestiondeficheros\obj\Debug\net8.0\gestiondeficheros.AssemblyInfo.cs
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\segona avaluacio\gestiondeficheros\obj\Debug\net8.0\gestiondeficheros.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\segona avaluacio\gestiondeficheros\obj\Debug\net8.0\gestiondeficheros.sourcelink.json
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\segona avaluacio\gestiondeficheros\obj\Debug\net8.0\gestiondeficheros.dll
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\segona avaluacio\gestiondeficheros\obj\Debug\net8.0\refint\gestiondeficheros.dll
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\segona avaluacio\gestiondeficheros\obj\Debug\net8.0\gestiondeficheros.pdb
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\segona avaluacio\gestiondeficheros\obj\Debug\net8.0\gestiondeficheros.genruntimeconfig.cache
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\segona avaluacio\gestiondeficheros\obj\Debug\net8.0\ref\gestiondeficheros.dll

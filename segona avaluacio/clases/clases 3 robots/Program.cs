@@ -1,10 +1,9 @@
 ﻿
 internal class Program
 {
-    
+    static List<Robot> robots = new List<Robot>();
     private static void Main(string[] args)
     {
-        List<Robot> robots = new List<Robot>();
 
         int opcion = 0;
         do
@@ -21,8 +20,7 @@ internal class Program
             switch (opcion)
             {
                 case 1:
-                    // string nombreGenerado = Robot.GetNombre();
-                    // string modeloGenerado = Robot.GetModeloRobot();
+                    CrearRobot();
                     break;
                 case 2:
 
@@ -32,6 +30,7 @@ internal class Program
                 case 4:
                     break;
                 case 5 :
+                    VerTodosRobots();
                     break;
                 case 6:
                     break;
@@ -41,40 +40,98 @@ internal class Program
         } while (opcion!=6);
     }
 
-    static void CrearRobot(List<Robot>robots)
+    public static void CrearRobot()
     {
-        System.Console.WriteLine($"que tipo de robot quieres generar");
-        string modelo = Console.ReadLine();
+        
+        string nombre = GetNombre();
+        string modelo = GetModeloRobot();
 
-        Robot nuevo;
+        Robot nuevoRobot;
 
-        if (modelo == "R2D2")
+        switch (modelo)
         {
-            nuevo = new R2D2(Robot.GetNombre(), modelo, 100);
+            case "R2D2":
+                nuevoRobot = new R2D2(nombre,modelo,100);
+                break;
+            case "C3PO":
+                nuevoRobot = new C3PO(nombre,modelo,"español");
+                break;
+            case "BBB":
+                nuevoRobot = new BBB(nombre,modelo,50);
+                break;
+            default:
+                nuevoRobot = new Robot(nombre,modelo);
+                break;
         }
-        else if (modelo == "C3PO")
-        {
-            nuevo = new C3PO(Robot.GetNombre(), modelo , 100);
-        }else
-        {
-            nuevo = new BBB(Robot.GetNombre(), modelo ,100);
-        }
 
-        robots.Add(nuevo);
+        robots.Add(nuevoRobot);
+
+        System.Console.WriteLine($"Robot creado {nombre}-{modelo}");
+    
     }
+    public static string GetNombre()
+    {
+
+        Random rnd = new();
+        string[] letras = ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M"];
+
+        string letra1 = letras[rnd.Next(letras.Length)];
+        string letra2 = letras[rnd.Next(letras.Length)];
+        string letra3 = letras[rnd.Next(letras.Length)];
+        string nombre = letra1 + letra2 + letra3;
+
+        int numero = rnd.Next(100, 999);
+
+        string nombreCompleto = $"{nombre}-{numero}";
+
+        return nombreCompleto;
+
+
+    }
+
+    public static string GetModeloRobot()
+    {
+        Random random = new Random();
+        string[] modelo = ["R2D2", "C3PO", "BBB"];
+
+        string modeloRobot = modelo[random.Next(modelo.Length)];
+        return modeloRobot;
+    }
+
+
+
+
     static void RestablecerRobot()
     {
         System.Console.WriteLine($"Posicion del robot");
         int posicion  = int.Parse(Console.ReadLine());
 
+        if (posicion == )
+        {
+            
+        }
 
     }
 
-    static void VerRobot()
+    static void VerTodosRobots()
     {
-        
+        foreach (var verRobot in robots)
+        {
+            System.Console.WriteLine(verRobot);
+        }
     }
     
+    static void VerUnRobot()
+    {
+        System.Console.WriteLine($"Dime la posicion del robot que quieres ver?");
+        int posicion = int.Parse(Console.ReadLine());
+
+        if (posicion >= 0 && posicion < robots.Count)
+        {
+            Robot r = robots[posicion];
+            System.Console.WriteLine($"Nombre : {r.nombre}");
+        }
+    }
 
 
 }

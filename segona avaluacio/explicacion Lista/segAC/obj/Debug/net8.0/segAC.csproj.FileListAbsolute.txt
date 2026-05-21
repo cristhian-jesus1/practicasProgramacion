@@ -1,0 +1,15 @@
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\explicacion Lista\segAC\bin\Debug\net8.0\segAC.exe
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\explicacion Lista\segAC\bin\Debug\net8.0\segAC.deps.json
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\explicacion Lista\segAC\bin\Debug\net8.0\segAC.runtimeconfig.json
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\explicacion Lista\segAC\bin\Debug\net8.0\segAC.dll
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\explicacion Lista\segAC\bin\Debug\net8.0\segAC.pdb
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\explicacion Lista\segAC\obj\Debug\net8.0\segAC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\explicacion Lista\segAC\obj\Debug\net8.0\segAC.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\explicacion Lista\segAC\obj\Debug\net8.0\segAC.AssemblyInfo.cs
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\explicacion Lista\segAC\obj\Debug\net8.0\segAC.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\explicacion Lista\segAC\obj\Debug\net8.0\segAC.sourcelink.json
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\explicacion Lista\segAC\obj\Debug\net8.0\segAC.dll
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\explicacion Lista\segAC\obj\Debug\net8.0\refint\segAC.dll
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\explicacion Lista\segAC\obj\Debug\net8.0\segAC.pdb
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\explicacion Lista\segAC\obj\Debug\net8.0\segAC.genruntimeconfig.cache
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\explicacion Lista\segAC\obj\Debug\net8.0\ref\segAC.dll

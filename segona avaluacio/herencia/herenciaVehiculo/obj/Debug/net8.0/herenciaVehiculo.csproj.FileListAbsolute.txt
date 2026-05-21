@@ -1,0 +1,15 @@
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\segona avaluacio\herencia\herenciaVehiculo\bin\Debug\net8.0\herenciaVehiculo.exe
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\segona avaluacio\herencia\herenciaVehiculo\bin\Debug\net8.0\herenciaVehiculo.deps.json
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\segona avaluacio\herencia\herenciaVehiculo\bin\Debug\net8.0\herenciaVehiculo.runtimeconfig.json
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\segona avaluacio\herencia\herenciaVehiculo\bin\Debug\net8.0\herenciaVehiculo.dll
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\segona avaluacio\herencia\herenciaVehiculo\bin\Debug\net8.0\herenciaVehiculo.pdb
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\segona avaluacio\herencia\herenciaVehiculo\obj\Debug\net8.0\herenciaVehiculo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\segona avaluacio\herencia\herenciaVehiculo\obj\Debug\net8.0\herenciaVehiculo.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\segona avaluacio\herencia\herenciaVehiculo\obj\Debug\net8.0\herenciaVehiculo.AssemblyInfo.cs
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\segona avaluacio\herencia\herenciaVehiculo\obj\Debug\net8.0\herenciaVehiculo.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\segona avaluacio\herencia\herenciaVehiculo\obj\Debug\net8.0\herenciaVehiculo.sourcelink.json
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\segona avaluacio\herencia\herenciaVehiculo\obj\Debug\net8.0\herenciaVehiculo.dll
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\segona avaluacio\herencia\herenciaVehiculo\obj\Debug\net8.0\refint\herenciaVehiculo.dll
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\segona avaluacio\herencia\herenciaVehiculo\obj\Debug\net8.0\herenciaVehiculo.pdb
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\segona avaluacio\herencia\herenciaVehiculo\obj\Debug\net8.0\herenciaVehiculo.genruntimeconfig.cache
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\segona avaluacio\herencia\herenciaVehiculo\obj\Debug\net8.0\ref\herenciaVehiculo.dll

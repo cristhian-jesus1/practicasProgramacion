@@ -1,0 +1,15 @@
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\explicacion STRUCTS\bin\Debug\net8.0\STRUCTS.exe
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\explicacion STRUCTS\bin\Debug\net8.0\STRUCTS.deps.json
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\explicacion STRUCTS\bin\Debug\net8.0\STRUCTS.runtimeconfig.json
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\explicacion STRUCTS\bin\Debug\net8.0\STRUCTS.dll
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\explicacion STRUCTS\bin\Debug\net8.0\STRUCTS.pdb
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\explicacion STRUCTS\obj\Debug\net8.0\STRUCTS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\explicacion STRUCTS\obj\Debug\net8.0\STRUCTS.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\explicacion STRUCTS\obj\Debug\net8.0\STRUCTS.AssemblyInfo.cs
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\explicacion STRUCTS\obj\Debug\net8.0\STRUCTS.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\explicacion STRUCTS\obj\Debug\net8.0\STRUCTS.sourcelink.json
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\explicacion STRUCTS\obj\Debug\net8.0\STRUCTS.dll
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\explicacion STRUCTS\obj\Debug\net8.0\refint\STRUCTS.dll
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\explicacion STRUCTS\obj\Debug\net8.0\STRUCTS.pdb
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\explicacion STRUCTS\obj\Debug\net8.0\STRUCTS.genruntimeconfig.cache
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\explicacion STRUCTS\obj\Debug\net8.0\ref\STRUCTS.dll

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("expresiones regulares complejas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a454e2089b3a898b3c9eda4c2a8ff628813fc4b4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6f6cb9d14130ac201ae3bd8467eec249f8418f6c")]
 [assembly: System.Reflection.AssemblyProductAttribute("expresiones regulares complejas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("expresiones regulares complejas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

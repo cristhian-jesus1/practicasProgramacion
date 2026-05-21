@@ -1,0 +1,22 @@
+@model TodoMVC.Models.Tarea
+
+@{
+    ViewData["Title"] = "Nueva tarea";
+}
+
+<div class="container container-sm">
+    <h1>Nueva tarea</h1>
+
+    <form method="post" action="/Tareas/Crear">
+        <div class="form-group">
+            <label for="Titulo">Título de la tarea</label>
+            <input type="text" id="Titulo" name="Titulo" placeholder="Ir todos los días a clase de DAW" autofocus
+                   required />
+        </div>
+
+        <div class="form-actions">
+            <button type="submit" class="btn btn-primary">Guardar</button>
+            <a href="/" class="btn">Cancelar</a>
+        </div>
+    </form>
+</div>

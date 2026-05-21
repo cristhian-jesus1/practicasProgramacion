@@ -1,0 +1,15 @@
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\segona avaluacio\practicasPersonal\bin\Debug\net8.0\practicasPersonal.exe
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\segona avaluacio\practicasPersonal\bin\Debug\net8.0\practicasPersonal.deps.json
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\segona avaluacio\practicasPersonal\bin\Debug\net8.0\practicasPersonal.runtimeconfig.json
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\segona avaluacio\practicasPersonal\bin\Debug\net8.0\practicasPersonal.dll
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\segona avaluacio\practicasPersonal\bin\Debug\net8.0\practicasPersonal.pdb
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\segona avaluacio\practicasPersonal\obj\Debug\net8.0\practicasPersonal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\segona avaluacio\practicasPersonal\obj\Debug\net8.0\practicasPersonal.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\segona avaluacio\practicasPersonal\obj\Debug\net8.0\practicasPersonal.AssemblyInfo.cs
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\segona avaluacio\practicasPersonal\obj\Debug\net8.0\practicasPersonal.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\segona avaluacio\practicasPersonal\obj\Debug\net8.0\practicasPersonal.sourcelink.json
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\segona avaluacio\practicasPersonal\obj\Debug\net8.0\practicasPersonal.dll
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\segona avaluacio\practicasPersonal\obj\Debug\net8.0\refint\practicasPersonal.dll
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\segona avaluacio\practicasPersonal\obj\Debug\net8.0\practicasPersonal.pdb
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\segona avaluacio\practicasPersonal\obj\Debug\net8.0\practicasPersonal.genruntimeconfig.cache
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\segona avaluacio\practicasPersonal\obj\Debug\net8.0\ref\practicasPersonal.dll

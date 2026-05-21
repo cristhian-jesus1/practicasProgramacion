@@ -1,0 +1,43 @@
+@model TodoMVC.Models.Pelicula
+
+@{
+    ViewData["Title"] = "Editar Película";
+}
+
+<div class="container container-sm">
+    <h1>✏️ Editar Película</h1>
+
+    @if (ViewBag.Error != null)
+    {
+        <div class="alert alert-error">@ViewBag.Error</div>
+    }
+
+    <form method="post" action="/Peliculas/Editar">
+        <input type="hidden" name="Id" value="@Model.Id" />
+        <div class="form-group">
+            <label for="Titulo">Título</label>
+            <input type="text" id="Titulo" name="Titulo" value="@Model.Titulo"
+                   pattern=".{3,}" title="Mínimo 3 caracteres" required />
+        </div>
+        <div class="form-group">
+            <label for="Genero">Género</label>
+            <input type="text" id="Genero" name="Genero" value="@Model.Genero"
+                   placeholder="Acción, Comedia, Drama..." required />
+        </div>
+        <div class="form-group">
+            <label for="Anio">Año de lanzamiento</label>
+            <input type="number" id="Anio" name="Anio" value="@Model.Anio"
+                   min="1888" max="2030" required />
+        </div>
+        <div class="form-group checkbox-group">
+            <label>
+                <input type="checkbox" name="Vista" value="true" @(Model.Vista ? "checked" : "") />
+                Ya la he visto
+            </label>
+        </div>
+        <div class="form-actions">
+            <button type="submit" class="btn btn-primary">Guardar cambios</button>
+            <a href="/" class="btn">Cancelar</a>
+        </div>
+    </form>
+</div>

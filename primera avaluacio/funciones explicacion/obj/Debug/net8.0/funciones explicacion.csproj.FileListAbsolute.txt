@@ -1,0 +1,15 @@
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\funciones explicacion\bin\Debug\net8.0\funciones explicacion.exe
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\funciones explicacion\bin\Debug\net8.0\funciones explicacion.deps.json
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\funciones explicacion\bin\Debug\net8.0\funciones explicacion.runtimeconfig.json
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\funciones explicacion\bin\Debug\net8.0\funciones explicacion.dll
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\funciones explicacion\bin\Debug\net8.0\funciones explicacion.pdb
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\funciones explicacion\obj\Debug\net8.0\funciones explicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\funciones explicacion\obj\Debug\net8.0\funciones explicacion.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\funciones explicacion\obj\Debug\net8.0\funciones explicacion.AssemblyInfo.cs
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\funciones explicacion\obj\Debug\net8.0\funciones explicacion.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\funciones explicacion\obj\Debug\net8.0\funciones explicacion.sourcelink.json
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\funciones explicacion\obj\Debug\net8.0\funciones explicacion.dll
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\funciones explicacion\obj\Debug\net8.0\refint\funciones explicacion.dll
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\funciones explicacion\obj\Debug\net8.0\funciones explicacion.pdb
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\funciones explicacion\obj\Debug\net8.0\funciones explicacion.genruntimeconfig.cache
+C:\Users\usuario\Desktop\DAW\Asignatures\practicasProgramacion\funciones explicacion\obj\Debug\net8.0\ref\funciones explicacion.dll
